@@ -24,10 +24,15 @@
     <a href="https://leetcode.com/u/prajwalsuprabha23/" alt="leetcode">
         <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
     </a>
+<!-- hackerrank-->
+    <a href="https://www.hackerrank.com/profile/ChandanSouL" alt="HackerRank">
+        <img height="80" src= "https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png">
+    </a>
 <!--   gmail -->
     <a href="prajwalsuprabha23@gmail.com" alt="mail">
         <img height="80" src="https://img.icons8.com/?size=512&id=xLIkjgcmFOsC&format=png"/>
     </a>
+
 </div>
 
 <hr>
@@ -59,9 +64,10 @@
 
 <h3 align="left">Coding Profiles:</h3>
 
-
+<!--Hacker rank -->
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
  <!-- leetcode -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/ChandanSouL?theme=dark&font=ABeeZee&ext=contest&width=800)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ChandanSouL?theme=dark&font=Red%20Hat%20Display&ext=heatmap&width=800)
 
 <hr>
 <!-- github stata -->
