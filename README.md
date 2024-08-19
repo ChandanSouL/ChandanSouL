@@ -10,7 +10,7 @@
   
 - 📫 How to reach me **prajwalsuprabha23@gmail.com**
   
-- 📄 Resume:  [https://drive.google.com/file/d/1vHfgpDGLLB3AKnJRrcL5ZJyujPkGiibS/view?usp=drive_link](https://drive.google.com/file/d/1vHfgpDGLLB3AKnJRrcL5ZJyujPkGiibS/view?usp=drive_link)
+- 📄 Resume:  [https://drive.google.com/file/d/1Atg1jraB2GfqNnx6dIMaPlftqKck78O7/view?usp=drive_link](https://drive.google.com/file/d/1Atg1jraB2GfqNnx6dIMaPlftqKck78O7/view?usp=drive_link)
   
 <hr>
 
