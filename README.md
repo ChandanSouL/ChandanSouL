@@ -4,7 +4,7 @@
 <h2 align="center">Software Engineer 2 At Sandvine Technologies</h2>
 <h3 align="center"></h3>
 
-- 🌱 I’m currently Mastering: **Data Structures and Algorithms, Full Stack Development (MERN), System Designs**
+- 🌱 I’m currently Mastering: **Data Structures and Algorithms, JavaScript, DevOps,System Designs**
   
 - 👨‍💻 All of my projects are available at [https://github.com/ChandanSouL/](https://github.com/ChandanSouL/)
   
@@ -47,6 +47,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
 <!-- js --> 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"> 
+<!-- aws -->
+<img src="https://tenor.com/view/aws-gif-19699711" width="100">
 <!-- github -->
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 <!-- vscode -->
