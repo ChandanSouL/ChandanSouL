@@ -17,9 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <div align="center">
 <!-- linkedin -->
-    <a href="https://www.linkedin.com/in/chandan-prajwal-227207219/" alt="linkedin">
+    <!-- <a href="https://www.linkedin.com/in/chandan-prajwal-227207219/" alt="linkedin">
         <img height="80" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>
-    </a>
+    </a> -->
 <!-- leetcode -->
     <a href="https://leetcode.com/u/prajwalsuprabha23/" alt="leetcode">
         <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
