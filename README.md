@@ -4,7 +4,7 @@
 <h2 align="center">Software Engineer 2 At Sandvine Technologies</h2>
 <h3 align="center"></h3>
 
-- 🌱 I’m currently Mastering: **Data Structures and Algorithms, JavaScript, DevOps,System Designs**
+- 🌱 I’m currently Mastering: **Data Structures and Algorithms, Django,AWS(EC2,EKS,S3), DevOps,System Designs**
   
 - 👨‍💻 All of my projects are available at [https://github.com/ChandanSouL/](https://github.com/ChandanSouL/)
   
