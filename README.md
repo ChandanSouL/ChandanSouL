@@ -28,6 +28,10 @@
     <a href="https://www.hackerrank.com/profile/ChandanSouL" alt="HackerRank">
         <img height="80" src= "https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png">
     </a>
+<!--Codeforce-->
+    <a href="https://codeforces.com/profile/ChandanSouL" alt="CodeForce">
+    <img height="80" src="https://codeforces.com/favicon.ico">
+    </a>
 <!--   gmail -->
     <a href="prajwalsuprabha23@gmail.com" alt="mail">
         <img height="80" src="https://img.icons8.com/?size=512&id=xLIkjgcmFOsC&format=png"/>
@@ -68,9 +72,11 @@
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
  <!-- leetcode -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ChandanSouL?theme=dark&font=Red%20Hat%20Display&ext=heatmap&width=800)
+<!-- codeforces -->
+![Codeforces](https://codeforces.com/api/user.status?handle=ChandanSouL&from=1&count=10)
 
 <hr>
-<!-- github stata -->
+<!-- github status -->
 <table>
     <td align="center">
         <a href="https://github.com/ChandanSouL"><img align="center" height="220px"  src="https://github-readme-stats.vercel.app/api?username=ChandanSouL&show_icons=true&locale=en&theme=dark" /></a>
