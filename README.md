@@ -30,7 +30,7 @@
     </a>
 <!--Codeforce-->
     <a href="https://codeforces.com/profile/ChandanSouL" alt="CodeForce">
-    <img height="80" src="https://codeforces.com/favicon.ico">
+    <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg">
     </a>
 <!--   gmail -->
     <a href="prajwalsuprabha23@gmail.com" alt="mail">
