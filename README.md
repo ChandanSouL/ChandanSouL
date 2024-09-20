@@ -73,7 +73,6 @@
  <!-- leetcode -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ChandanSouL?theme=dark&font=Red%20Hat%20Display&ext=heatmap&width=800)
 <!-- codeforces -->
-![Codeforces](https://codeforces.com/api/user.status?handle=ChandanSouL&from=1&count=10)
 
 <hr>
 <!-- github status -->
