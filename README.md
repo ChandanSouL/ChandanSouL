@@ -8,7 +8,7 @@
   
 - 👨‍💻 All of my projects are available at [https://github.com/ChandanSouL/](https://github.com/ChandanSouL/)
   
-- 📫 How to reach me **prajwalsuprabha23@gmail.com**
+- 📫 How to reach me **chandanp.1si19is014@gmail.com**
   
 - 📄 Resume:  [https://drive.google.com/file/d/1Atg1jraB2GfqNnx6dIMaPlftqKck78O7/view?usp=drive_link](https://drive.google.com/file/d/1Atg1jraB2GfqNnx6dIMaPlftqKck78O7/view?usp=drive_link)
   
