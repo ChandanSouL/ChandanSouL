@@ -8,9 +8,7 @@
   
 - 👨‍💻 All of my projects are available at [https://github.com/ChandanSouL/](https://github.com/ChandanSouL/)
   
-- 📫 How to reach me **chandanp.1si19is014@gmail.com**
-  
-- 📄 Resume:  [https://drive.google.com/file/d/1Atg1jraB2GfqNnx6dIMaPlftqKck78O7/view?usp=drive_link](https://drive.google.com/file/d/1Atg1jraB2GfqNnx6dIMaPlftqKck78O7/view?usp=drive_link)
+- 📄 Resume:  
   
 <hr>
 
@@ -65,14 +63,6 @@
 </div>
 
 <hr>
-
-<h3 align="left">Coding Profiles:</h3>
-
-<!--Hacker rank -->
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
- <!-- leetcode -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/ChandanSouL?theme=dark&font=Red%20Hat%20Display&ext=heatmap&width=800)
-<!-- codeforces -->
 
 <hr>
 <!-- github status -->
